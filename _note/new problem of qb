@@ -1,0 +1,29 @@
+registration
+state city area by id
+
+all edit name duplicte is not work
+-	state
+-	city
+-	area
+-	category
+
+purchess
+payment type not insert
+QUNTITY LIMIT
+disscont limit
+payment type insert
+insert two diffrent product id
+only show delaer user
+quantity type
+
+order
+payment type not insert
+QUNTITY LIMIT
+disscont limit
+payment type insert
+Duplicate entry '18' for key 'PRIMARY'
+only one entry
+quantity type
+
+avilable stocke
+when distributer purchess it enter on purchess & when wholeseller order then product automatically minaus

@@ -1,0 +1,19 @@
+- Original theme -> xampp/htdocs/{your_project}/paste
+- index.html -> index.php
+- make folders > middlepage, template
+- open indeex.php
+	-	find header div, nav div, middle page div and footer div
+	- 	put header, nav, footer in template
+	-	put middle div in middlepage
+- put login page (without dividing) in xampp/htdocs/{your_project}/index.php and rename it to login.php
+
+- open sidebar.php and delete un usable links and set links for 3-4 pages with the url (href), having url like : index.php?middlepage={your_page}
+
+- make index.php as master page
+	- set the page variable with default name "dashboard"
+	- check the page is requested or not,
+		- If page is requested then check requested page is avialable or not,
+			- If available then set page variable to the requested page_name
+			- If not then set page with : error page
+
+- make middlepage dynamic by concating the page variable to the 'middlepage'.var_name.'.php'.

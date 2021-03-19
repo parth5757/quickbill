@@ -1,0 +1,37 @@
+Registration
+	state city area by id - Done
+	forgot password - Done
+
+profile
+	user profile ui (P)
+
+purchess
+	payment type not insert {P / K} 
+	QUNTITY LIMIT (K)	- Done
+	discount limit (P)
+	insert two diffrent product id ( K)
+	only show delaer user (P)
+	quantity type (K)
+
+order
+	payment type not insert
+	QUNTITY LIMIT - (P)
+	disscont limit - (P)
+	payment type insert
+	Duplicate entry '18' for key 'PRIMARY'
+	only one entry
+	quantity type
+
+feedback & contact 
+	diplay message for sucess & unsuccess
+
+what for about us (P)
+
+avilable stocke (P)
+
+Payment management
+
+get quntity
+product id
+-
+update
